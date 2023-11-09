@@ -14,3 +14,16 @@ CREATE TABLE `mapa`.`usuario` (
 `senha` VARCHAR(45) NULL,
 `email` VARCHAR(45) NULL,
 PRIMARY KEY (`id`));
+```
+
+### User Interface Showcase
+
+![Login](https://i.imgur.com/NdE7Fmp.png "Login")
+
+![Register](https://i.imgur.com/pl6phBW.png "Register")
+
+![Success](https://i.imgur.com/JNGlCGO.png "Success")
+
+![Error](https://i.imgur.com/NPf1mE5.png "Error")
+
+![Loading](https://i.imgur.com/oIjIlNy.png "Loading")
